@@ -1,5 +1,3 @@
-Beech is a script that presents XML files in HTML using XLST. It can be used to create a blog that loads quickly or a simple website
-
 # Getting Started
 
 1. Download the latest release at: https://github.com/rbutt15/Beech/releases
