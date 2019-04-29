@@ -1,2 +1,9 @@
 # Beech
-Beech is a CMS-like system that presents xml files in html
+Beech is a CMS-like system that presents XML files in HTML using XLST
+
+# XML Elements
+Beech uses the following elements:
+<headline>, <author>, <date>, <body>
+  
+In the future, I hope to add a backend UI and more elements. But let's just keep things simple for now!
+
