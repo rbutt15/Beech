@@ -7,4 +7,4 @@
 
 ## Ideas for future features
 
-- Themes
+- Pre-built themes
