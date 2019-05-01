@@ -1,4 +1,5 @@
 :title: Creating a Post or Page
+.. contents:: Creatting a Post or Page
 
 **Writing It**
 Create a new XML file in a text editor or code editor such as Notepad and name it something like helloworld.xml
