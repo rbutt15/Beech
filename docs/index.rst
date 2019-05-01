@@ -1,3 +1,5 @@
+:title: Creating a Post or Page
+
 **Writing It**
 Create a new XML file in a text editor or code editor such as Notepad and name it something like helloworld.xml
 Start by adding <?xml version="1.0" encoding="UTF-8"?> on the first line, then <page> on the next and </page> on the last
